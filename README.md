@@ -65,3 +65,25 @@ The E-Learning Platform is a comprehensive web application designed to provide h
 4. Start the backend server:
     ```sh
     npm start
+
+### Frontend Setup
+1. Navigate to the frontend directory:
+    ```sh
+    cd elearning-frontend-master
+
+2. Install dependencies:
+    ```sh
+    npm install
+
+3. Start the frontend development server:
+    ```sh
+    npm run dev
+
+### Usage
+1. Open your browser and navigate to the frontend URL (usually http://localhost:3000).
+2. Register a new user or log in with an existing account.
+3. Browse available courses, enroll in a course, and start learning.
+4. Admin users can access the admin dashboard to manage courses and users.
+
+### Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
